@@ -1,10 +1,4 @@
-@font-face {
-    font-family: nunito;
-    src: url(//assets/fonts/Nunito/Nunito-VariableFont_wght.ttf);
-}
-.font-nunito{
-    font-family: nunito;
-}
+
 @font-face {
     font-family: n1;
     src: url(/assets/fonts/static/Nunito-SemiBold.ttf);
